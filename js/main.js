@@ -110,8 +110,6 @@ let swiper = new Swiper('.portfolio_container', {
     keyboard: true,
 });
 
-/*==================== TESTIMONIAL ====================*/
-
 
 /*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
 
@@ -122,4 +120,3 @@ let swiper = new Swiper('.portfolio_container', {
 /*==================== SHOW SCROLL UP ====================*/ 
 
 
-/*==================== DARK LIGHT THEME ====================*/ 
