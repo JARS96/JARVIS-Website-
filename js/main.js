@@ -110,13 +110,3 @@ let swiper = new Swiper('.portfolio_container', {
     keyboard: true,
 });
 
-
-/*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
-
-
-/*==================== CHANGE BACKGROUND HEADER ====================*/ 
-
-
-/*==================== SHOW SCROLL UP ====================*/ 
-
-
